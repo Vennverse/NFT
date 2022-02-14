@@ -2,8 +2,8 @@
   "name": "nft-gallery",
   "version": "0.1.0",
   "description": "NFT Gallery",
-  "author": "miqueltrallero.c@gmail.com",
-  "homepage": "https://sdubb.github.io/VennverseMarketplace/",
+  "author": "vennverse.com",
+  "homepage": "http://nft.vennverse.com/",
   "engines": {
     "node": "14.17.3"
   },
@@ -20,6 +20,7 @@
     "@openzeppelin/contracts": "^4.2.0",
     "@openzeppelin/test-helpers": "^0.5.12",
     "dotenv": "^10.0.0",
+    "gh-pages": "^3.2.3",
     "truffle": "^5.3.14",
     "truffle-hdwallet-provider-privkey": "^0.3.0"
   },
